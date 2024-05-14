@@ -5,7 +5,7 @@ export const contactsData = {
     github: 'https://github.com/alaasassii',
     facebook: 'https://www.facebook.com/profile.php?id=100081681471572',
     linkedIn: 'https://www.linkedin.com/in/ala-sassi-19a672241/',
-    twitter: 'https',
+    twitter: '',
     stackOverflow: 'https://stackoverflow.com/users/25035021/ala-sassi',
     devUsername: "alaasassii"
 }
